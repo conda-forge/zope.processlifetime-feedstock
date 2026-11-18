@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "4.0"
+  version: "4.1"
 
 package:
   name: zope.processlifetime
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/z/zope.processlifetime/zope_processlifetime-${{ version }}.tar.gz
-  sha256: f35279eca8f88ab41f22107b3b2d2908a3916d058f5fbfb5c1dccfc99f7155ce
+  sha256: 81586dc0cf2b182c5ec088a542f815c4650c65a837ef9f11800c452036d7da87
 
 build:
   number: 0
